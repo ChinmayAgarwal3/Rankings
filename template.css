@@ -7,9 +7,9 @@ html, body {
 
 .center {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
+  top: 10%;
+  left: 30%;
+ 
 }
 
 .card {
