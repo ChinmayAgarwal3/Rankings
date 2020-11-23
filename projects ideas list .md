@@ -1,4 +1,4 @@
-# PROJECT IDEAS
+# STARTUP PROJECT IDEAS
 
 #### Small Ones
 
