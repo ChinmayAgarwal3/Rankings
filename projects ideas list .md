@@ -6,6 +6,7 @@
     - Uses a browser with paywall extention –> scrapes from the websites  –> shows in an acceptable format
 - Online notepad with connected app
     - Allowing to input thoughts from the mobile into the private database
+- Create the job allocation funnel from the TEDx video
 - Portfolio(CV, resume,achievements list, certificates)
     - Prepared to send/show the resume/CV/ achievements etc
 - Laptop store and guide
@@ -82,6 +83,8 @@
     Lightweight,Reading friendly,Enabling chrome extensions to remove paywalls and ads, To be mainly used for getting news and info and reading and running scripts)
 
 12. Simple mp3 player/ipod
+
+
 
 
 
